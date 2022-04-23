@@ -1,0 +1,33 @@
+﻿  Client.cpp
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(67,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(96,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPCWSTR'
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(96,11): message : consider using '%ls' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(96,11): message : consider using '%lls' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(96,11): message : consider using '%Ls' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(96,11): message : consider using '%ws' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(104,11): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(104,11): message : consider using '%llu' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(104,11): message : consider using '%Iu' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(104,11): message : consider using '%I64u' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(106,11): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(106,11): message : consider using '%llu' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(106,11): message : consider using '%Iu' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(106,11): message : consider using '%I64u' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(108,11): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(108,11): message : consider using '%llu' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(108,11): message : consider using '%Iu' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(108,11): message : consider using '%I64u' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(112,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPCWSTR'
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(112,11): message : consider using '%ls' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(112,11): message : consider using '%lls' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(112,11): message : consider using '%Ls' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(112,11): message : consider using '%ws' in the format string
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(126,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(24,14): warning C4101: 'message': unreferenced local variable
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(84,24): warning C4101: 'dwBytesPerSect': unreferenced local variable
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(84,56): warning C4101: 'dwTotalClusters': unreferenced local variable
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(84,40): warning C4101: 'dwFreeClusters': unreferenced local variable
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(83,14): warning C4101: 'fResult': unreferenced local variable
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(84,8): warning C4101: 'dwSectPerClust': unreferenced local variable
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\Client\Client.cpp(78,7): warning C4101: 'nameDrive': unreferenced local variable
+  Client.vcxproj -> C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\HW\x64\Debug\Client.exe

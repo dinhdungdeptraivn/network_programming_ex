@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\shuna\documents\github\network_programming_ex\hw\hw\x64\debug\severinfo.exe' is denied.
+  SeverInfo.cpp
+C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\SeverInfo\SeverInfo.cpp(76,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Users\shuna\Documents\GitHub\network_programming_ex\HW\HW\x64\Debug\SeverInfo.exe'
